@@ -27,5 +27,7 @@ func ==(lhs:Student, rhs: Student) -> Bool {
     if lhs.age       != rhs.age{ return false}
     
     return true
+    
 }
+
 
